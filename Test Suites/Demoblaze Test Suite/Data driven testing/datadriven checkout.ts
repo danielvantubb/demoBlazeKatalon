@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>datadriven checkout</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5711f42e-e6ce-4171-b48f-dca74c7c5f4c</testSuiteGuid>
+   <testCaseLink>
+      <guid>fe0a4920-6a0a-42b0-9f64-073149714606</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>b9fcf2fd-3fa4-4611-b1c9-87440899f8cb</id>
+         <masked>false</masked>
+         <name>Message</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Test Case Folder/Checkout/purchase scenario data driven</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>50fcab0f-dbd9-4705-bef5-8adb7881a5e4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/palce order modal</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>50fcab0f-dbd9-4705-bef5-8adb7881a5e4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>a7431005-6840-461f-965e-0e760c663cb1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>50fcab0f-dbd9-4705-bef5-8adb7881a5e4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CreditCard</value>
+         <variableId>fe1d1c6e-5983-46a3-979b-03a10aa1baaa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>50fcab0f-dbd9-4705-bef5-8adb7881a5e4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Country</value>
+         <variableId>80f357ca-ff12-4659-9f6d-981258a9f959</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>50fcab0f-dbd9-4705-bef5-8adb7881a5e4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Ciry</value>
+         <variableId>2b70321b-dad2-40f5-a8d3-bd6b4054b94e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>50fcab0f-dbd9-4705-bef5-8adb7881a5e4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Month</value>
+         <variableId>75c51160-b0f3-4f85-9350-27c8d7a7708e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>50fcab0f-dbd9-4705-bef5-8adb7881a5e4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Year</value>
+         <variableId>a9e75ef4-061b-4214-b03d-726f0ab35192</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>50fcab0f-dbd9-4705-bef5-8adb7881a5e4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ErrorMessage</value>
+         <variableId>64707699-4704-4c36-81d5-5f6cf609c22a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>50fcab0f-dbd9-4705-bef5-8adb7881a5e4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Message </value>
+         <variableId>b9fcf2fd-3fa4-4611-b1c9-87440899f8cb</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6fe54765-97d1-4ccc-a62b-7157118cd54f</testSuiteGuid>
+   <testCaseLink>
+      <guid>503d2718-729e-4791-8888-9a030c1e732e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Case Folder/Login/Login Invalid</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c9ba4a7b-45fa-4171-99fe-f0349f111f67</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8a0915fb-1ae5-4d78-b2a7-9c77416587b2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bf9b70f7-a686-4122-a398-c1ca88773372</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Case Folder/Login/Login Valid - keyword test</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9b813dc2-53da-4ca1-8783-f9e05d9fb155</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e0b0ad0d-ae81-45b7-baeb-512e8d6ec671</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0f099ca5-e39c-453e-98b6-19cd3f86c760</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Case Folder/Login/Logout Scenario</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>597ee958-8a7a-4a1e-82a2-bdb10a6e09ac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2b0d03ea-eeef-47c8-ad4d-4d6af1967d60</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration Flow - Valid User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56eb8a23-4ff0-4f97-847d-3aee2c33a3d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c35be0a3-41a1-49f2-84cd-0dee46414867</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>c35be0a3-41a1-49f2-84cd-0dee46414867</id>
+      <masked>false</masked>
+      <name>randProductNum</name>
+   </variable>
+</TestCaseEntity>

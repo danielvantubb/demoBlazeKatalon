@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add product to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67ddd7b9-01a0-4d14-9355-a06def075180</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a005089b-30c1-4491-bbc5-640f97378562</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>a005089b-30c1-4491-bbc5-640f97378562</id>
+      <masked>false</masked>
+      <name>productNumber</name>
+   </variable>
+</TestCaseEntity>

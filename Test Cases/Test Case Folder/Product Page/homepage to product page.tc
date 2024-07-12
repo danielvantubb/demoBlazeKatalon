@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>homepage to product page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab030821-5ccf-4a41-82fa-70c3b5f4e9e9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f63d75b-5fdc-4fd8-a8be-bcc43acdef29</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>5f63d75b-5fdc-4fd8-a8be-bcc43acdef29</id>
+      <masked>false</masked>
+      <name>productNumber</name>
+   </variable>
+</TestCaseEntity>

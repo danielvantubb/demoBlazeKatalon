@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>remove product from cart</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>554865cc-a80c-4674-bc72-2b7efbbd8249</testCaseGuid>
+</TestCaseEntity>

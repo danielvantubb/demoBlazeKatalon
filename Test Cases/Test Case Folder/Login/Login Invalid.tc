@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18491ca0-63c0-42ad-8425-e57e03237a2c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9ba4a7b-45fa-4171-99fe-f0349f111f67</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8a0915fb-1ae5-4d78-b2a7-9c77416587b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.validUserName</defaultValue>
+      <description></description>
+      <id>c9ba4a7b-45fa-4171-99fe-f0349f111f67</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.validPW</defaultValue>
+      <description></description>
+      <id>8a0915fb-1ae5-4d78-b2a7-9c77416587b2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

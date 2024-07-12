@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logout Scenario</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12570746-a3ce-44e8-aa9f-8b755c9fbbd6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>597ee958-8a7a-4a1e-82a2-bdb10a6e09ac</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b0d03ea-eeef-47c8-ad4d-4d6af1967d60</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.validUserName</defaultValue>
+      <description></description>
+      <id>597ee958-8a7a-4a1e-82a2-bdb10a6e09ac</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.validPW</defaultValue>
+      <description></description>
+      <id>2b0d03ea-eeef-47c8-ad4d-4d6af1967d60</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

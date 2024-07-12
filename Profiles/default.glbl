@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hello'</initValue>
+      <name>validUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'8o8woQVGDME='</initValue>
+      <name>validPW</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'User does not exist.'</initValue>
+      <name>errUserDoesNotExist</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This user already exist.'</initValue>
+      <name>err_SignUp_userExists</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sign up successful.'</initValue>
+      <name>signUpSuccessMessage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Product added'</initValue>
+      <name>successAddCart</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.demoblaze.com/'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

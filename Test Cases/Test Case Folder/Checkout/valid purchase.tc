@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>valid purchase</name>
+   <tag>smoke,checkout</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3841dc0-e02c-4074-94ae-4d6ca7da229c</testCaseGuid>
+</TestCaseEntity>
